@@ -8,3 +8,13 @@ E:\AI\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
 E:\AI\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
 E:\AI\Puzzle\Puzzle\obj\Debug\Puzzle.exe
 E:\AI\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+E:\AI\GameAI\puzzle15\Puzzle\bin\Debug\Puzzle.exe.config
+E:\AI\GameAI\puzzle15\Puzzle\bin\Debug\Puzzle.exe
+E:\AI\GameAI\puzzle15\Puzzle\bin\Debug\Puzzle.pdb
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.Form1.resources
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.exe
+E:\AI\GameAI\puzzle15\Puzzle\obj\Debug\Puzzle.pdb
