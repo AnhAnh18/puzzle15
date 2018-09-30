@@ -57,6 +57,7 @@ namespace Puzzle
             }
         }
 
+
         private void button17_Click(object sender, EventArgs e)
         {
             foreach (Button b in panel1.Controls)
